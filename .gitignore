@@ -1,0 +1,40 @@
+*.pyc
+/db.sqlite3
+.DS_Store
+.env
+.env-local
+.env-production
+*/settings/local.py
+/staticfiles/*
+/mediafiles/*
+__pycache__/
+
+# coverage result
+.coverage
+/coverage/
+
+# pycharm
+.idea
+
+#vscode
+.vscode/
+
+# data
+*.dump
+
+# npm
+node_modules/
+npm-debug.log
+
+#Folders
+.DS_Store
+CSV/
+
+# General
+/venv/
+/env/
+/output/
+/cache/
+/build
+
+
